@@ -1,0 +1,11 @@
+{
+ "name": "Roman To Hangul",
+ "version": "1.0",
+ "manifest_version": 2,
+ "description": "Roman to Hangul tool.",
+ "browser_action": {
+  "name": "Roman TO Hangul by LuX Security",
+  "default_icon": "icon.png",
+  "default_popup": "rth.html"
+ }
+}
